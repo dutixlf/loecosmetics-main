@@ -26,11 +26,8 @@ Loecosmetics - minecraft external add-on for capes and cosmetics.
 
 Of curse, u can use app.
 
-## Usage
-
-Just go to loeage.net and install app
-<h4> Tutorial: </h4>
-* Go to site
+## Tutorial
+* Go to site https://loeage.net
 * Download app
 * Log-in
 * Set capes and cosmetics
