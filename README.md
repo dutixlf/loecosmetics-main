@@ -39,5 +39,5 @@ Just go to loeage.net and install app
 
 ## Authors
 
-* **dutixlf** - *Junior Programmer* - [dutixlf](https://github.com/dutixlf/) - *Main tkinter dev*
-* **TimonLimon** - *Junior Programmer + Marketing* - [TimonLimon](https://github.com/TimonLimon/) - *Scripting*
+* **dutixlf** - *Programmer* - [dutixlf](https://github.com/dutixlf/) - *Main design dev*
+* **TimonLimon** - *Programmer + Marketing* - [TimonLimon](https://github.com/TimonLimon/) - *Scripting*
