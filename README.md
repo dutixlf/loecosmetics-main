@@ -1,6 +1,6 @@
 <br/>
 <p align="center">
-  <a href="https://github.com/ShaanCoding/loecosmetics-main">
+  <a href="https://github.com/dutixlf/loecosmetics-main">
     <img src="assets/logo-72x72.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -16,8 +16,6 @@
 
 
 ## About The Project
-
-![Screen Shot](template.png)
 
 Loecosmetics - minecraft external add-on for capes and cosmetics.
 
